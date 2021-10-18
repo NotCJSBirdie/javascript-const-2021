@@ -1,0 +1,20 @@
+/* This is an external CSS File */
+body {
+  margin: 0;
+}
+
+.div1 {
+  background-color: peru;
+  margin: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: right;
+}
+
+.div2 {
+  background-color: burlywood;
+  margin: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
